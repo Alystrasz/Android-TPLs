@@ -1,4 +1,4 @@
-__author__ = 'ruben'
+__author__ = 'rsain'
 
 '''
 This script processes APK files (apps) in a folder and plays, for each app, the associated scenario while collects information about three metrics: memory, CPU, and network usages.
