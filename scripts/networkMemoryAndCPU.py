@@ -3,7 +3,6 @@ __author__ = 'ruben'
 '''
 This script processes APK files (apps) in a folder and plays, for each app, the associated scenario while collects information about three metrics: memory, CPU, and network usages.
 Each app is run RUNS times to get statistical values.
-As output, the script generates a CSV file for each metric, app, and run.
 
 Memory usage is measured using the Android tool dumpsys on the phone.
 CPU usage is measured using the linux command top on the phone.
