@@ -3,6 +3,7 @@ __author__ = 'rsain'
 '''
 This script processes APK files (apps) in a folder and plays, for each app, the associated scenario while collects energy consumption.
 Each app is run RUNS times to get statistical values.
+
 Energy consumption is measured in Joules (J).
 '''
 
