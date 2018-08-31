@@ -1,0 +1,14 @@
+SdkName,SdkType,Permission
+firebase,Analytics,android.permission.INTERNET
+firebase,Analytics,android.permission.ACCESS_NETWORK_STATE
+firebase,Analytics,android.permission.WAKE_LOCK
+firebase,Analytics,com.google.android.c2dm.permission.RECEIVE
+firebase,Analytics,ruben.soccerlab.firebase.permission.C2D_MESSAGE
+flurry,Analytics,android.permission.INTERNET
+flurry,Analytics,android.permission.ACCESS_NETWORK_STATE
+flurry,Analytics,android.permission.WRITE_EXTERNAL_STORAGE
+flurry,Analytics,android.permission.ACCESS_WIFI_STATE
+flurry,Analytics,android.permission.WAKE_LOCK
+google,Analytics,android.permission.INTERNET
+google,Analytics,android.permission.ACCESS_NETWORK_STATE
+google,Analytics,android.permission.WAKE_LOCK
