@@ -1,0 +1,5 @@
+SdkName,SdkType,Permission
+acra,CrashReporting,android.permission.INTERNET
+crashlytics,CrashReporting,android.permission.INTERNET
+newrelic,CrashReporting,android.permission.INTERNET
+newrelic,CrashReporting,android.permission.ACCESS_NETWORK_STATE

@@ -1,0 +1,4 @@
+SdkName,SdkType,Size
+acra,CrashReporting,1.45392513275
+crashlytics,CrashReporting,1.56108760834
+newrelic,CrashReporting,1.60483455658
