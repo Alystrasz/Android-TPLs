@@ -3,4 +3,4 @@ Mobile device applications (apps) are complex mostly because they rely on the in
 
 This repository offers different scripts to ease the comparison of TPLs. Given minimal Android apps integrating TPLs and a playable scenario, developers can collect quality metrics (APK size, number of permissions, energy consumption, and CPU, memory, and network usages) and generate different plots comparing TPLs. This allows developers make informed decisions about the libraries to integrate in their apps. A minimal app is a simple app that includes one TPL. A playable scenario simulates the user interaction exercising a particular TPL functionality.
 
-The folder [scripts](https://github.com/rsain/Android-TPLs/tree/master/scripts) contains bash, python, and R scripts used to collect metrics of minimal apps while playing given scenarios, process metric values, and make the comparison of TPLs for different metrics.
+The [scripts](https://github.com/rsain/Android-TPLs/tree/master/scripts) folder contains bash, python, and R scripts used to collect metrics of minimal apps while playing given scenarios, process metric values, and make the comparison of TPLs for different metrics.
