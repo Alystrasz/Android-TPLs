@@ -1,0 +1,37 @@
+SdkName,SdkType,Metric,Value
+acra,Crash reporter,CPU,0.2
+acra,Crash reporter,Energy,98.0629172750112
+acra,Crash reporter,Memory,21.4272026909722
+acra,Crash reporter,Network,23
+admob,Advertising,CPU,5.81944444444444
+admob,Advertising,Energy,91.3782272025674
+admob,Advertising,Memory,67.2714301215277
+admob,Advertising,Network,316
+applovin,Advertising,CPU,3.33333333333333
+applovin,Advertising,Energy,93.8103246614587
+applovin,Advertising,Memory,47.8142903645833
+applovin,Advertising,Network,392
+crashlytics,Crash reporter,CPU,0.142857142857143
+crashlytics,Crash reporter,Energy,98.3221784988959
+crashlytics,Crash reporter,Memory,34.0997488839286
+crashlytics,Crash reporter,Network,50
+firebase,Analytics,CPU,1.65833333333333
+firebase,Analytics,Energy,213.489599059874
+firebase,Analytics,Memory,35.5668057528408
+firebase,Analytics,Network,5.4951171875
+flurry,Analytics,CPU,1.5
+flurry,Analytics,Energy,213.995051916243
+flurry,Analytics,Memory,36.1670809659092
+flurry,Analytics,Network,18
+google,Analytics,CPU,1.38095238095238
+google,Analytics,Energy,214.063165139343
+google,Analytics,Memory,35.3634366122159
+google,Analytics,Network,1.22265625
+mopub,Advertising,CPU,7
+mopub,Advertising,Energy,96.8850641386882
+mopub,Advertising,Memory,65.5400933159722
+mopub,Advertising,Network,319.5
+newrelic,Crash reporter,CPU,0
+newrelic,Crash reporter,Energy,98.2168299623091
+newrelic,Crash reporter,Memory,32.3935546875
+newrelic,Crash reporter,Network,29

@@ -1,0 +1,28 @@
+SdkName,SdkType,Permission
+admob,Advertising,android.permission.INTERNET
+admob,Advertising,android.permission.ACCESS_NETWORK_STATE
+admob,Advertising,android.permission.WAKE_LOCK
+admob,Advertising,com.google.android.c2dm.permission.RECEIVE
+admob,Advertising,ruben.soccerlab.admob.permission.C2D_MESSAGE
+applovin,Advertising,android.permission.INTERNET
+applovin,Advertising,android.permission.WRITE_EXTERNAL_STORAGE
+applovin,Advertising,android.permission.ACCESS_NETWORK_STATE
+mopub,Advertising,android.permission.INTERNET
+mopub,Advertising,android.permission.ACCESS_NETWORK_STATE
+firebase,Analytics,android.permission.INTERNET
+firebase,Analytics,android.permission.ACCESS_NETWORK_STATE
+firebase,Analytics,android.permission.WAKE_LOCK
+firebase,Analytics,com.google.android.c2dm.permission.RECEIVE
+firebase,Analytics,ruben.soccerlab.firebase.permission.C2D_MESSAGE
+flurry,Analytics,android.permission.INTERNET
+flurry,Analytics,android.permission.ACCESS_NETWORK_STATE
+flurry,Analytics,android.permission.WRITE_EXTERNAL_STORAGE
+flurry,Analytics,android.permission.ACCESS_WIFI_STATE
+flurry,Analytics,android.permission.WAKE_LOCK
+google,Analytics,android.permission.INTERNET
+google,Analytics,android.permission.ACCESS_NETWORK_STATE
+google,Analytics,android.permission.WAKE_LOCK
+acra,Crash reporter,android.permission.INTERNET
+crashlytics,Crash reporter,android.permission.INTERNET
+newrelic,Crash reporter,android.permission.INTERNET
+newrelic,Crash reporter,android.permission.ACCESS_NETWORK_STATE

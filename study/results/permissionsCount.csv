@@ -1,0 +1,10 @@
+SdkName,SdkType,Metric,Run,Value
+admob,Advertising,Permissions,NA,5
+applovin,Advertising,Permissions,NA,3
+mopub,Advertising,Permissions,NA,2
+firebase,Analytics,Permissions,NA,5
+flurry,Analytics,Permissions,NA,5
+google,Analytics,Permissions,NA,3
+acra,Crash reporter,Permissions,NA,1
+crashlytics,Crash reporter,Permissions,NA,1
+newrelic,Crash reporter,Permissions,NA,2

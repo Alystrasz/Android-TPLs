@@ -1,0 +1,55 @@
+individual,group,variable,value
+admob,Advertising,APK size,2.13437175751
+applovin,Advertising,APK size,2.13302898407
+mopub,Advertising,APK size,2.26520442963
+admob,Advertising,CPU,5.81944444444444
+applovin,Advertising,CPU,3.33333333333333
+mopub,Advertising,CPU,7
+admob,Advertising,Energy,91.3782272025674
+applovin,Advertising,Energy,93.8103246614587
+mopub,Advertising,Energy,96.8850641386882
+admob,Advertising,Memory,67.2714301215277
+applovin,Advertising,Memory,47.8142903645833
+mopub,Advertising,Memory,65.5400933159722
+admob,Advertising,Network,316
+applovin,Advertising,Network,392
+mopub,Advertising,Network,319.5
+admob,Advertising,Permissions,5
+applovin,Advertising,Permissions,3
+mopub,Advertising,Permissions,2
+firebase,Analytics,APK size,2.00193500519
+flurry,Analytics,APK size,2.33451652527
+google,Analytics,APK size,2.22387886047
+firebase,Analytics,CPU,1.65833333333333
+flurry,Analytics,CPU,1.5
+google,Analytics,CPU,1.38095238095238
+firebase,Analytics,Energy,213.489599059874
+flurry,Analytics,Energy,213.995051916243
+google,Analytics,Energy,214.063165139343
+firebase,Analytics,Memory,35.5668057528408
+flurry,Analytics,Memory,36.1670809659092
+google,Analytics,Memory,35.3634366122159
+firebase,Analytics,Network,5.4951171875
+flurry,Analytics,Network,18
+google,Analytics,Network,1.22265625
+firebase,Analytics,Permissions,5
+flurry,Analytics,Permissions,5
+google,Analytics,Permissions,3
+acra,Crash reporter,APK size,1.45392513275
+crashlytics,Crash reporter,APK size,1.56108760834
+newrelic,Crash reporter,APK size,1.60483455658
+acra,Crash reporter,CPU,0.2
+crashlytics,Crash reporter,CPU,0.142857142857143
+newrelic,Crash reporter,CPU,0
+acra,Crash reporter,Energy,98.0629172750112
+crashlytics,Crash reporter,Energy,98.3221784988959
+newrelic,Crash reporter,Energy,98.2168299623091
+acra,Crash reporter,Memory,21.4272026909722
+crashlytics,Crash reporter,Memory,34.0997488839286
+newrelic,Crash reporter,Memory,32.3935546875
+acra,Crash reporter,Network,23
+crashlytics,Crash reporter,Network,50
+newrelic,Crash reporter,Network,29
+acra,Crash reporter,Permissions,1
+crashlytics,Crash reporter,Permissions,1
+newrelic,Crash reporter,Permissions,2

@@ -1,0 +1,10 @@
+SdkName,SdkType,Metric,Run,Value
+admob,Advertising,APK size,NA,2.13437175751
+applovin,Advertising,APK size,NA,2.13302898407
+mopub,Advertising,APK size,NA,2.26520442963
+firebase,Analytics,APK size,NA,2.00193500519
+flurry,Analytics,APK size,NA,2.33451652527
+google,Analytics,APK size,NA,2.22387886047
+acra,Crash reporter,APK size,NA,1.45392513275
+crashlytics,Crash reporter,APK size,NA,1.56108760834
+newrelic,Crash reporter,APK size,NA,1.60483455658

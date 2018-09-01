@@ -1,0 +1,1081 @@
+SdkName,SdkType,Metric,Run,Value
+admob,Advertising,CPU,1,1.11111111111111
+admob,Advertising,CPU,2,12.2222222222222
+admob,Advertising,CPU,3,3.55555555555556
+admob,Advertising,CPU,4,3.66666666666667
+admob,Advertising,CPU,5,13.5555555555556
+admob,Advertising,CPU,6,5
+admob,Advertising,CPU,7,16.8888888888889
+admob,Advertising,CPU,8,13.5
+admob,Advertising,CPU,9,5.88888888888889
+admob,Advertising,CPU,10,0
+admob,Advertising,CPU,11,16.3333333333333
+admob,Advertising,CPU,12,5.75
+admob,Advertising,CPU,13,11.1111111111111
+admob,Advertising,CPU,14,2.55555555555556
+admob,Advertising,CPU,15,2.625
+admob,Advertising,CPU,16,0
+admob,Advertising,CPU,17,9.22222222222222
+admob,Advertising,CPU,18,6.375
+admob,Advertising,CPU,19,6.33333333333333
+admob,Advertising,CPU,20,7.11111111111111
+admob,Advertising,CPU,21,4.66666666666667
+admob,Advertising,CPU,22,1
+admob,Advertising,CPU,23,4.5
+admob,Advertising,CPU,24,4.55555555555556
+admob,Advertising,CPU,25,9.66666666666667
+admob,Advertising,CPU,26,10.3333333333333
+admob,Advertising,CPU,27,5.11111111111111
+admob,Advertising,CPU,28,10.5555555555556
+admob,Advertising,CPU,29,1
+admob,Advertising,CPU,30,9
+applovin,Advertising,CPU,1,7.11111111111111
+applovin,Advertising,CPU,2,2.22222222222222
+applovin,Advertising,CPU,3,4.88888888888889
+applovin,Advertising,CPU,4,3.875
+applovin,Advertising,CPU,5,3.625
+applovin,Advertising,CPU,6,2.22222222222222
+applovin,Advertising,CPU,7,1.22222222222222
+applovin,Advertising,CPU,8,0.5
+applovin,Advertising,CPU,9,3.33333333333333
+applovin,Advertising,CPU,10,2.77777777777778
+applovin,Advertising,CPU,11,2.44444444444444
+applovin,Advertising,CPU,12,3.77777777777778
+applovin,Advertising,CPU,13,0.777777777777778
+applovin,Advertising,CPU,14,3.25
+applovin,Advertising,CPU,15,6.25
+applovin,Advertising,CPU,16,2
+applovin,Advertising,CPU,17,5.33333333333333
+applovin,Advertising,CPU,18,2
+applovin,Advertising,CPU,19,2.875
+applovin,Advertising,CPU,20,1.88888888888889
+applovin,Advertising,CPU,21,3.11111111111111
+applovin,Advertising,CPU,22,5.5
+applovin,Advertising,CPU,23,1.44444444444444
+applovin,Advertising,CPU,24,4.77777777777778
+applovin,Advertising,CPU,25,4.25
+applovin,Advertising,CPU,26,4.88888888888889
+applovin,Advertising,CPU,27,4
+applovin,Advertising,CPU,28,3.88888888888889
+applovin,Advertising,CPU,29,3.33333333333333
+applovin,Advertising,CPU,30,5.11111111111111
+mopub,Advertising,CPU,1,9.33333333333333
+mopub,Advertising,CPU,2,7
+mopub,Advertising,CPU,3,13.5555555555556
+mopub,Advertising,CPU,4,5.66666666666667
+mopub,Advertising,CPU,5,4.33333333333333
+mopub,Advertising,CPU,6,7.88888888888889
+mopub,Advertising,CPU,7,6.88888888888889
+mopub,Advertising,CPU,8,7
+mopub,Advertising,CPU,9,6.11111111111111
+mopub,Advertising,CPU,10,5.77777777777778
+mopub,Advertising,CPU,11,10.1111111111111
+mopub,Advertising,CPU,12,2.77777777777778
+mopub,Advertising,CPU,13,14.6666666666667
+mopub,Advertising,CPU,14,0
+mopub,Advertising,CPU,15,6
+mopub,Advertising,CPU,16,4.33333333333333
+mopub,Advertising,CPU,17,9.44444444444444
+mopub,Advertising,CPU,18,7.55555555555556
+mopub,Advertising,CPU,19,7.11111111111111
+mopub,Advertising,CPU,20,8
+mopub,Advertising,CPU,21,7
+mopub,Advertising,CPU,22,9.22222222222222
+mopub,Advertising,CPU,23,6.33333333333333
+mopub,Advertising,CPU,24,6.66666666666667
+mopub,Advertising,CPU,25,3.11111111111111
+mopub,Advertising,CPU,26,10
+mopub,Advertising,CPU,27,8.77777777777778
+mopub,Advertising,CPU,28,6.44444444444444
+mopub,Advertising,CPU,29,6.66666666666667
+mopub,Advertising,CPU,30,9.88888888888889
+admob,Advertising,Energy,1,89.6993655959296
+admob,Advertising,Energy,2,90.6363045443916
+admob,Advertising,Energy,3,90.2016840469653
+admob,Advertising,Energy,4,91.3195185693102
+admob,Advertising,Energy,5,90.530444845116
+admob,Advertising,Energy,6,95.372399321302
+admob,Advertising,Energy,7,91.5970152787436
+admob,Advertising,Energy,8,91.4608047862334
+admob,Advertising,Energy,9,92.0610797856436
+admob,Advertising,Energy,10,97.7047413164635
+admob,Advertising,Energy,11,93.2819210926875
+admob,Advertising,Energy,12,90.8464466417275
+admob,Advertising,Energy,13,91.4369358358246
+admob,Advertising,Energy,14,90.9680934229174
+admob,Advertising,Energy,15,91.15353531976
+admob,Advertising,Energy,16,97.6408420173469
+admob,Advertising,Energy,17,92.2366127137638
+admob,Advertising,Energy,18,91.8535898002444
+admob,Advertising,Energy,19,91.692273660778
+admob,Advertising,Energy,20,90.2327249911113
+admob,Advertising,Energy,21,93.0481810012332
+admob,Advertising,Energy,22,90.8154508646758
+admob,Advertising,Energy,23,91.2254379388624
+admob,Advertising,Energy,24,90.5152577186564
+admob,Advertising,Energy,25,99.0085863200733
+admob,Advertising,Energy,26,94.2903555855398
+admob,Advertising,Energy,27,90.3360239174761
+admob,Advertising,Energy,28,90.4691491079753
+admob,Advertising,Energy,29,90.666856015751
+admob,Advertising,Energy,30,96.9349675920729
+applovin,Advertising,Energy,1,95.9522816821355
+applovin,Advertising,Energy,2,98.6587281705928
+applovin,Advertising,Energy,3,95.4281176425334
+applovin,Advertising,Energy,4,90.1999894240095
+applovin,Advertising,Energy,5,94.0181050847098
+applovin,Advertising,Energy,6,91.8708781749292
+applovin,Advertising,Energy,7,91.4014053396583
+applovin,Advertising,Energy,8,96.6846199644384
+applovin,Advertising,Energy,9,93.6025442382076
+applovin,Advertising,Energy,10,91.1186051867913
+applovin,Advertising,Energy,11,93.1254605713655
+applovin,Advertising,Energy,12,97.8720518468901
+applovin,Advertising,Energy,13,90.9734017307921
+applovin,Advertising,Energy,14,94.0713371093732
+applovin,Advertising,Energy,15,93.0949892498592
+applovin,Advertising,Energy,16,92.386651592163
+applovin,Advertising,Energy,17,97.6666412356383
+applovin,Advertising,Energy,18,98.7312251796148
+applovin,Advertising,Energy,19,97.6878997476598
+applovin,Advertising,Energy,20,92.5301938563589
+applovin,Advertising,Energy,21,96.2878780762527
+applovin,Advertising,Energy,22,96.8981680947053
+applovin,Advertising,Energy,23,93.4407828462089
+applovin,Advertising,Energy,24,88.5098512063797
+applovin,Advertising,Energy,25,91.2360800100351
+applovin,Advertising,Energy,26,95.2113673788422
+applovin,Advertising,Energy,27,96.3277429265916
+applovin,Advertising,Energy,28,90.849473733418
+applovin,Advertising,Energy,29,91.6569111138498
+applovin,Advertising,Energy,30,98.621731779417
+mopub,Advertising,Energy,1,96.3972191708681
+mopub,Advertising,Energy,2,96.3559875457789
+mopub,Advertising,Energy,3,91.5231250910368
+mopub,Advertising,Energy,4,91.9092056358064
+mopub,Advertising,Energy,5,98.5797811457568
+mopub,Advertising,Energy,6,92.7735606619709
+mopub,Advertising,Energy,7,91.1190953277429
+mopub,Advertising,Energy,8,91.9531686966976
+mopub,Advertising,Energy,9,91.242128290606
+mopub,Advertising,Energy,10,99.0076736574283
+mopub,Advertising,Energy,11,99.110763386329
+mopub,Advertising,Energy,12,96.6652011717496
+mopub,Advertising,Energy,13,97.141766806585
+mopub,Advertising,Energy,14,92.5230710759949
+mopub,Advertising,Energy,15,93.4398598692675
+mopub,Advertising,Energy,16,97.1256788773189
+mopub,Advertising,Energy,17,98.8442615579443
+mopub,Advertising,Energy,18,97.1049271056267
+mopub,Advertising,Energy,19,99.1423287702098
+mopub,Advertising,Energy,20,99.2982549458456
+mopub,Advertising,Energy,21,91.7699385427359
+mopub,Advertising,Energy,22,97.5454747425399
+mopub,Advertising,Energy,23,92.2809718910666
+mopub,Advertising,Energy,24,92.3807939085972
+mopub,Advertising,Energy,25,98.1100898690276
+mopub,Advertising,Energy,26,98.4869292862992
+mopub,Advertising,Energy,27,98.9878913587361
+mopub,Advertising,Energy,28,99.5250669310074
+mopub,Advertising,Energy,29,92.4631188380745
+mopub,Advertising,Energy,30,97.3058858141072
+admob,Advertising,Memory,1,67.9202473958333
+admob,Advertising,Memory,2,68.8397352430556
+admob,Advertising,Memory,3,68.6725260416667
+admob,Advertising,Memory,4,67.2217881944444
+admob,Advertising,Memory,5,67.5257161458333
+admob,Advertising,Memory,6,68.310546875
+admob,Advertising,Memory,7,67.1255425347223
+admob,Advertising,Memory,8,63.0884331597223
+admob,Advertising,Memory,9,66.1446397569444
+admob,Advertising,Memory,10,65.4282769097223
+admob,Advertising,Memory,11,67.3491753472223
+admob,Advertising,Memory,12,63.7253689236111
+admob,Advertising,Memory,13,65.1467013888889
+admob,Advertising,Memory,14,67.8759765625
+admob,Advertising,Memory,15,64.5865885416667
+admob,Advertising,Memory,16,62.6356336805556
+admob,Advertising,Memory,17,66.8269314236111
+admob,Advertising,Memory,18,66.9361979166667
+admob,Advertising,Memory,19,67.341796875
+admob,Advertising,Memory,20,64.7440321180556
+admob,Advertising,Memory,21,69.3960503472223
+admob,Advertising,Memory,22,66.7433810763889
+admob,Advertising,Memory,23,63.4491102430556
+admob,Advertising,Memory,24,67.6520182291667
+admob,Advertising,Memory,25,68.2892795138889
+admob,Advertising,Memory,26,68.3719618055556
+admob,Advertising,Memory,27,66.53515625
+admob,Advertising,Memory,28,67.3210720486111
+admob,Advertising,Memory,29,68.2914496527777
+admob,Advertising,Memory,30,67.3372395833333
+applovin,Advertising,Memory,1,52.2242838541667
+applovin,Advertising,Memory,2,46.771484375
+applovin,Advertising,Memory,3,55.7302517361111
+applovin,Advertising,Memory,4,47.7473958333333
+applovin,Advertising,Memory,5,46.5259331597223
+applovin,Advertising,Memory,6,49.4418402777777
+applovin,Advertising,Memory,7,41.8379991319444
+applovin,Advertising,Memory,8,47.7837456597223
+applovin,Advertising,Memory,9,45.7097439236111
+applovin,Advertising,Memory,10,44.4784071180556
+applovin,Advertising,Memory,11,39.2759331597223
+applovin,Advertising,Memory,12,55.076171875
+applovin,Advertising,Memory,13,48.1998697916667
+applovin,Advertising,Memory,14,43.9220920138889
+applovin,Advertising,Memory,15,49.5593532986111
+applovin,Advertising,Memory,16,47.8448350694444
+applovin,Advertising,Memory,17,56.6620008680556
+applovin,Advertising,Memory,18,51.3991970486111
+applovin,Advertising,Memory,19,47.3384331597223
+applovin,Advertising,Memory,20,46.4575737847223
+applovin,Advertising,Memory,21,45.3875868055556
+applovin,Advertising,Memory,22,50.3904079861111
+applovin,Advertising,Memory,23,50.4674479166667
+applovin,Advertising,Memory,24,49.5479600694444
+applovin,Advertising,Memory,25,45.7579210069444
+applovin,Advertising,Memory,26,55.2276475694444
+applovin,Advertising,Memory,27,50.0643446180556
+applovin,Advertising,Memory,28,41.9500868055556
+applovin,Advertising,Memory,29,45.3677300347223
+applovin,Advertising,Memory,30,48.3051215277777
+mopub,Advertising,Memory,1,62.3980034722223
+mopub,Advertising,Memory,2,63.3505859375
+mopub,Advertising,Memory,3,67.2185329861111
+mopub,Advertising,Memory,4,62.8605685763889
+mopub,Advertising,Memory,5,68.0749782986111
+mopub,Advertising,Memory,6,64.1650390625
+mopub,Advertising,Memory,7,63.0951605902777
+mopub,Advertising,Memory,8,67.4112413194444
+mopub,Advertising,Memory,9,62.4465060763889
+mopub,Advertising,Memory,10,67.1287977430556
+mopub,Advertising,Memory,11,68.0975477430556
+mopub,Advertising,Memory,12,66.4547526041667
+mopub,Advertising,Memory,13,66.6220703125
+mopub,Advertising,Memory,14,39.0249565972223
+mopub,Advertising,Memory,15,65.6257595486111
+mopub,Advertising,Memory,16,63.904296875
+mopub,Advertising,Memory,17,66.2961154513889
+mopub,Advertising,Memory,18,63.1920572916667
+mopub,Advertising,Memory,19,64.7690972222223
+mopub,Advertising,Memory,20,63.4263237847223
+mopub,Advertising,Memory,21,65.4544270833333
+mopub,Advertising,Memory,22,63.9956597222223
+mopub,Advertising,Memory,23,68.2302517361111
+mopub,Advertising,Memory,24,66.7668185763889
+mopub,Advertising,Memory,25,68.1032986111111
+mopub,Advertising,Memory,26,66.7078993055556
+mopub,Advertising,Memory,27,63.796875
+mopub,Advertising,Memory,28,68.0524088541667
+mopub,Advertising,Memory,29,68.111328125
+mopub,Advertising,Memory,30,65.0495876736111
+admob,Advertising,Network,1,338
+admob,Advertising,Network,2,315
+admob,Advertising,Network,3,318
+admob,Advertising,Network,4,317
+admob,Advertising,Network,5,313
+admob,Advertising,Network,6,320
+admob,Advertising,Network,7,316
+admob,Advertising,Network,8,371
+admob,Advertising,Network,9,647
+admob,Advertising,Network,10,385
+admob,Advertising,Network,11,686
+admob,Advertising,Network,12,441
+admob,Advertising,Network,13,316
+admob,Advertising,Network,14,314
+admob,Advertising,Network,15,306
+admob,Advertising,Network,16,330
+admob,Advertising,Network,17,317
+admob,Advertising,Network,18,301
+admob,Advertising,Network,19,312
+admob,Advertising,Network,20,323
+admob,Advertising,Network,21,316
+admob,Advertising,Network,22,412
+admob,Advertising,Network,23,311
+admob,Advertising,Network,24,320
+admob,Advertising,Network,25,316
+admob,Advertising,Network,26,316
+admob,Advertising,Network,27,316
+admob,Advertising,Network,28,316
+admob,Advertising,Network,29,315
+admob,Advertising,Network,30,315
+applovin,Advertising,Network,1,289
+applovin,Advertising,Network,2,4455
+applovin,Advertising,Network,3,269
+applovin,Advertising,Network,4,2984
+applovin,Advertising,Network,5,118
+applovin,Advertising,Network,6,8845
+applovin,Advertising,Network,7,295
+applovin,Advertising,Network,8,115
+applovin,Advertising,Network,9,93
+applovin,Advertising,Network,10,263
+applovin,Advertising,Network,11,442
+applovin,Advertising,Network,12,3857
+applovin,Advertising,Network,13,257
+applovin,Advertising,Network,14,119
+applovin,Advertising,Network,15,4446
+applovin,Advertising,Network,16,342
+applovin,Advertising,Network,17,4994
+applovin,Advertising,Network,18,4782
+applovin,Advertising,Network,19,98
+applovin,Advertising,Network,20,4403
+applovin,Advertising,Network,21,3667
+applovin,Advertising,Network,22,6212
+applovin,Advertising,Network,23,6998
+applovin,Advertising,Network,24,3711
+applovin,Advertising,Network,25,164
+applovin,Advertising,Network,26,325
+applovin,Advertising,Network,27,165
+applovin,Advertising,Network,28,3696
+applovin,Advertising,Network,29,272
+applovin,Advertising,Network,30,692
+mopub,Advertising,Network,1,319
+mopub,Advertising,Network,2,324
+mopub,Advertising,Network,3,317
+mopub,Advertising,Network,4,321
+mopub,Advertising,Network,5,411
+mopub,Advertising,Network,6,321
+mopub,Advertising,Network,7,317
+mopub,Advertising,Network,8,323
+mopub,Advertising,Network,9,315
+mopub,Advertising,Network,10,326
+mopub,Advertising,Network,11,319
+mopub,Advertising,Network,12,324
+mopub,Advertising,Network,13,319
+mopub,Advertising,Network,14,8.3896484375
+mopub,Advertising,Network,15,316
+mopub,Advertising,Network,16,412
+mopub,Advertising,Network,17,316
+mopub,Advertising,Network,18,318
+mopub,Advertising,Network,19,318
+mopub,Advertising,Network,20,324
+mopub,Advertising,Network,21,328
+mopub,Advertising,Network,22,322
+mopub,Advertising,Network,23,332
+mopub,Advertising,Network,24,315
+mopub,Advertising,Network,25,318
+mopub,Advertising,Network,26,320
+mopub,Advertising,Network,27,326
+mopub,Advertising,Network,28,318
+mopub,Advertising,Network,29,318
+mopub,Advertising,Network,30,327
+firebase,Analytics,CPU,1,0.681818181818182
+firebase,Analytics,CPU,2,2
+firebase,Analytics,CPU,3,1.59090909090909
+firebase,Analytics,CPU,4,1.61904761904762
+firebase,Analytics,CPU,5,1.23809523809524
+firebase,Analytics,CPU,6,2.45
+firebase,Analytics,CPU,7,2.3
+firebase,Analytics,CPU,8,1.33333333333333
+firebase,Analytics,CPU,9,2.4
+firebase,Analytics,CPU,10,4.35
+firebase,Analytics,CPU,11,1.57142857142857
+firebase,Analytics,CPU,12,1.66666666666667
+firebase,Analytics,CPU,13,5.05
+firebase,Analytics,CPU,14,0.85
+firebase,Analytics,CPU,15,3.35
+firebase,Analytics,CPU,16,3.38095238095238
+firebase,Analytics,CPU,17,2.85714285714286
+firebase,Analytics,CPU,18,2
+firebase,Analytics,CPU,19,2.45
+firebase,Analytics,CPU,20,1.2
+firebase,Analytics,CPU,21,1.66666666666667
+firebase,Analytics,CPU,22,0.857142857142857
+firebase,Analytics,CPU,23,1.57142857142857
+firebase,Analytics,CPU,24,1.65
+firebase,Analytics,CPU,25,1.19047619047619
+firebase,Analytics,CPU,26,3.65
+firebase,Analytics,CPU,27,1.14285714285714
+firebase,Analytics,CPU,28,0.818181818181818
+firebase,Analytics,CPU,29,2
+firebase,Analytics,CPU,30,1.36363636363636
+flurry,Analytics,CPU,1,1.54545454545455
+flurry,Analytics,CPU,2,1.40909090909091
+flurry,Analytics,CPU,3,1.38095238095238
+flurry,Analytics,CPU,4,1.80952380952381
+flurry,Analytics,CPU,5,1.18181818181818
+flurry,Analytics,CPU,6,1.33333333333333
+flurry,Analytics,CPU,7,1.36363636363636
+flurry,Analytics,CPU,8,1.42857142857143
+flurry,Analytics,CPU,9,1.42857142857143
+flurry,Analytics,CPU,10,1.47619047619048
+flurry,Analytics,CPU,11,1.61904761904762
+flurry,Analytics,CPU,12,1.47619047619048
+flurry,Analytics,CPU,13,1.27272727272727
+flurry,Analytics,CPU,14,1.57142857142857
+flurry,Analytics,CPU,15,1.68181818181818
+flurry,Analytics,CPU,16,1.09090909090909
+flurry,Analytics,CPU,17,1.27272727272727
+flurry,Analytics,CPU,18,1.77272727272727
+flurry,Analytics,CPU,19,1.71428571428571
+flurry,Analytics,CPU,20,1.57142857142857
+flurry,Analytics,CPU,21,1.61904761904762
+flurry,Analytics,CPU,22,1.72727272727273
+flurry,Analytics,CPU,23,1.47619047619048
+flurry,Analytics,CPU,24,1.71428571428571
+flurry,Analytics,CPU,25,1.52380952380952
+flurry,Analytics,CPU,26,1.38095238095238
+flurry,Analytics,CPU,27,1.18181818181818
+flurry,Analytics,CPU,28,1.59090909090909
+flurry,Analytics,CPU,29,1.66666666666667
+flurry,Analytics,CPU,30,1.57142857142857
+google,Analytics,CPU,1,1.52380952380952
+google,Analytics,CPU,2,1.14285714285714
+google,Analytics,CPU,3,1
+google,Analytics,CPU,4,1.36363636363636
+google,Analytics,CPU,5,1.40909090909091
+google,Analytics,CPU,6,1.38095238095238
+google,Analytics,CPU,7,1.38095238095238
+google,Analytics,CPU,8,1.45
+google,Analytics,CPU,9,1.09090909090909
+google,Analytics,CPU,10,1.4
+google,Analytics,CPU,11,1.38095238095238
+google,Analytics,CPU,12,1.47619047619048
+google,Analytics,CPU,13,1.38095238095238
+google,Analytics,CPU,14,1.66666666666667
+google,Analytics,CPU,15,1.27272727272727
+google,Analytics,CPU,16,1.0952380952381
+google,Analytics,CPU,17,1.18181818181818
+google,Analytics,CPU,18,1.05
+google,Analytics,CPU,19,1.45
+google,Analytics,CPU,20,1.28571428571429
+google,Analytics,CPU,21,1.23809523809524
+google,Analytics,CPU,22,1.0952380952381
+google,Analytics,CPU,23,1.28571428571429
+google,Analytics,CPU,24,1.47619047619048
+google,Analytics,CPU,25,1.47619047619048
+google,Analytics,CPU,26,1.19047619047619
+google,Analytics,CPU,27,1.45
+google,Analytics,CPU,28,1.66666666666667
+google,Analytics,CPU,29,1.23809523809524
+google,Analytics,CPU,30,1.42857142857143
+firebase,Analytics,Energy,1,211.17986546718
+firebase,Analytics,Energy,2,212.390626547913
+firebase,Analytics,Energy,3,212.927744316768
+firebase,Analytics,Energy,4,211.871161080808
+firebase,Analytics,Energy,5,213.816442777583
+firebase,Analytics,Energy,6,213.376867752494
+firebase,Analytics,Energy,7,212.310654764416
+firebase,Analytics,Energy,8,214.972008578647
+firebase,Analytics,Energy,9,213.576701778062
+firebase,Analytics,Energy,10,215.929447791263
+firebase,Analytics,Energy,11,212.385624826843
+firebase,Analytics,Energy,12,213.324014972587
+firebase,Analytics,Energy,13,213.763737498391
+firebase,Analytics,Energy,14,213.225813447246
+firebase,Analytics,Energy,15,214.604216817298
+firebase,Analytics,Energy,16,213.544751191087
+firebase,Analytics,Energy,17,214.003092995666
+firebase,Analytics,Energy,18,212.703425419251
+firebase,Analytics,Energy,19,213.482462466574
+firebase,Analytics,Energy,20,213.165759067162
+firebase,Analytics,Energy,21,212.679706699449
+firebase,Analytics,Energy,22,214.414662179523
+firebase,Analytics,Energy,23,212.868557915978
+firebase,Analytics,Energy,24,213.534606200247
+firebase,Analytics,Energy,25,214.539322656116
+firebase,Analytics,Energy,26,217.173624657845
+firebase,Analytics,Energy,27,213.241812700523
+firebase,Analytics,Energy,28,213.496735653175
+firebase,Analytics,Energy,29,218.070792568657
+firebase,Analytics,Energy,30,213.775489199811
+flurry,Analytics,Energy,1,210.465895314007
+flurry,Analytics,Energy,2,211.418274269182
+flurry,Analytics,Energy,3,211.921722527756
+flurry,Analytics,Energy,4,213.121379198868
+flurry,Analytics,Energy,5,214.325271294925
+flurry,Analytics,Energy,6,214.955220631258
+flurry,Analytics,Energy,7,213.722769135665
+flurry,Analytics,Energy,8,212.479688973096
+flurry,Analytics,Energy,9,213.503410760443
+flurry,Analytics,Energy,10,213.931061736099
+flurry,Analytics,Energy,11,213.657141644525
+flurry,Analytics,Energy,12,214.323529234267
+flurry,Analytics,Energy,13,216.151368576535
+flurry,Analytics,Energy,14,214.360001422363
+flurry,Analytics,Energy,15,213.26600192632
+flurry,Analytics,Energy,16,213.509310395604
+flurry,Analytics,Energy,17,213.485434229759
+flurry,Analytics,Energy,18,214.004894084835
+flurry,Analytics,Energy,19,214.130590477116
+flurry,Analytics,Energy,20,215.776467727805
+flurry,Analytics,Energy,21,215.769086518546
+flurry,Analytics,Energy,22,214.08808263761
+flurry,Analytics,Energy,23,213.98520974765
+flurry,Analytics,Energy,24,214.315598201266
+flurry,Analytics,Energy,25,213.223691429953
+flurry,Analytics,Energy,26,215.382009887036
+flurry,Analytics,Energy,27,214.417835516354
+flurry,Analytics,Energy,28,212.570201121042
+flurry,Analytics,Energy,29,214.533968699375
+flurry,Analytics,Energy,30,214.367088140982
+google,Analytics,Energy,1,212.018808228276
+google,Analytics,Energy,2,214.700864968291
+google,Analytics,Energy,3,211.937098582433
+google,Analytics,Energy,4,212.313974810335
+google,Analytics,Energy,5,213.021339997222
+google,Analytics,Energy,6,213.861240141594
+google,Analytics,Energy,7,213.258513340785
+google,Analytics,Energy,8,215.36361220306
+google,Analytics,Energy,9,212.80016029345
+google,Analytics,Energy,10,214.340446197482
+google,Analytics,Energy,11,212.999850397782
+google,Analytics,Energy,12,215.037406788431
+google,Analytics,Energy,13,213.631433801115
+google,Analytics,Energy,14,213.480038102307
+google,Analytics,Energy,15,212.816827113556
+google,Analytics,Energy,16,214.05229545773
+google,Analytics,Energy,17,214.340070851816
+google,Analytics,Energy,18,214.142723724779
+google,Analytics,Energy,19,214.074034820956
+google,Analytics,Energy,20,214.849564928605
+google,Analytics,Energy,21,213.571198536951
+google,Analytics,Energy,22,213.159576530375
+google,Analytics,Energy,23,214.604242480608
+google,Analytics,Energy,24,213.898109120842
+google,Analytics,Energy,25,215.675291854392
+google,Analytics,Energy,26,214.693840136725
+google,Analytics,Energy,27,214.340473741724
+google,Analytics,Energy,28,214.761074345841
+google,Analytics,Energy,29,215.025456050791
+google,Analytics,Energy,30,214.461586776676
+firebase,Analytics,Memory,1,35.4809126420454
+firebase,Analytics,Memory,2,35.6942027698863
+firebase,Analytics,Memory,3,35.5813210227272
+firebase,Analytics,Memory,4,35.5983664772728
+firebase,Analytics,Memory,5,35.7653586647728
+firebase,Analytics,Memory,6,35.1095081676137
+firebase,Analytics,Memory,7,35.5750621448863
+firebase,Analytics,Memory,8,35.5052823153409
+firebase,Analytics,Memory,9,35.9280894886363
+firebase,Analytics,Memory,10,35.4450905539772
+firebase,Analytics,Memory,11,35.0047052556818
+firebase,Analytics,Memory,12,35.6119495738637
+firebase,Analytics,Memory,13,34.8835671164772
+firebase,Analytics,Memory,14,34.8790394176137
+firebase,Analytics,Memory,15,35.9203657670454
+firebase,Analytics,Memory,16,35.5802112926137
+firebase,Analytics,Memory,17,35.8330078125
+firebase,Analytics,Memory,18,35.6993519176137
+firebase,Analytics,Memory,19,35.0201083096591
+firebase,Analytics,Memory,20,35.8625710227272
+firebase,Analytics,Memory,21,35.5464311079546
+firebase,Analytics,Memory,22,35.009765625
+firebase,Analytics,Memory,23,35.5119406960228
+firebase,Analytics,Memory,24,35.9918767755682
+firebase,Analytics,Memory,25,35.5585493607954
+firebase,Analytics,Memory,26,36.3793501420454
+firebase,Analytics,Memory,27,35.5803888494318
+firebase,Analytics,Memory,28,34.9972034801137
+firebase,Analytics,Memory,29,34.9134854403409
+firebase,Analytics,Memory,30,34.9756303267046
+flurry,Analytics,Memory,1,36.2012606534091
+flurry,Analytics,Memory,2,36.2004616477272
+flurry,Analytics,Memory,3,36.5158025568182
+flurry,Analytics,Memory,4,36.0973899147728
+flurry,Analytics,Memory,5,36.2717063210228
+flurry,Analytics,Memory,6,36.2611860795454
+flurry,Analytics,Memory,7,35.5319158380682
+flurry,Analytics,Memory,8,36.1750710227272
+flurry,Analytics,Memory,9,36.5784801136363
+flurry,Analytics,Memory,10,36.0580610795454
+flurry,Analytics,Memory,11,35.55224609375
+flurry,Analytics,Memory,12,35.6952237215909
+flurry,Analytics,Memory,13,35.4894797585228
+flurry,Analytics,Memory,14,36.1575372869318
+flurry,Analytics,Memory,15,36.2734375
+flurry,Analytics,Memory,16,36.1983309659091
+flurry,Analytics,Memory,17,35.64404296875
+flurry,Analytics,Memory,18,35.5276544744318
+flurry,Analytics,Memory,19,36.1592240767046
+flurry,Analytics,Memory,20,36.1232688210228
+flurry,Analytics,Memory,21,36.2213245738637
+flurry,Analytics,Memory,22,35.4275568181818
+flurry,Analytics,Memory,23,36.1803533380682
+flurry,Analytics,Memory,24,36.1029385653409
+flurry,Analytics,Memory,25,35.4078924005682
+flurry,Analytics,Memory,26,36.3313654119318
+flurry,Analytics,Memory,27,36.2621626420454
+flurry,Analytics,Memory,28,36.1749378551137
+flurry,Analytics,Memory,29,36.3995916193182
+flurry,Analytics,Memory,30,35.6365411931818
+google,Analytics,Memory,1,35.4891690340909
+google,Analytics,Memory,2,35.2765891335228
+google,Analytics,Memory,3,35.3889825994318
+google,Analytics,Memory,4,35.3629261363637
+google,Analytics,Memory,5,34.9573419744318
+google,Analytics,Memory,6,35.4940962357954
+google,Analytics,Memory,7,35.3639470880682
+google,Analytics,Memory,8,35.4993785511363
+google,Analytics,Memory,9,35.4036754261363
+google,Analytics,Memory,10,35.4192116477272
+google,Analytics,Memory,11,35.4885919744318
+google,Analytics,Memory,12,34.8249289772728
+google,Analytics,Memory,13,34.74267578125
+google,Analytics,Memory,14,35.35546875
+google,Analytics,Memory,15,35.4567649147728
+google,Analytics,Memory,16,34.7286931818182
+google,Analytics,Memory,17,34.7236772017046
+google,Analytics,Memory,18,35.4356800426137
+google,Analytics,Memory,19,35.3160511363637
+google,Analytics,Memory,20,35.32470703125
+google,Analytics,Memory,21,35.4177468039772
+google,Analytics,Memory,22,35.3548473011363
+google,Analytics,Memory,23,35.4647993607954
+google,Analytics,Memory,24,34.6726740056818
+google,Analytics,Memory,25,35.3602183948863
+google,Analytics,Memory,26,34.6858132102272
+google,Analytics,Memory,27,35.4948952414772
+google,Analytics,Memory,28,34.7605646306818
+google,Analytics,Memory,29,35.8230202414772
+google,Analytics,Memory,30,35.599609375
+firebase,Analytics,Network,1,17
+firebase,Analytics,Network,2,6.4248046875
+firebase,Analytics,Network,3,5.306640625
+firebase,Analytics,Network,4,5.2490234375
+firebase,Analytics,Network,5,5.3662109375
+firebase,Analytics,Network,6,31
+firebase,Analytics,Network,7,5.3662109375
+firebase,Analytics,Network,8,5.6142578125
+firebase,Analytics,Network,9,5.4462890625
+firebase,Analytics,Network,10,5.1611328125
+firebase,Analytics,Network,11,16
+firebase,Analytics,Network,12,6.048828125
+firebase,Analytics,Network,13,5.7490234375
+firebase,Analytics,Network,14,6.541015625
+firebase,Analytics,Network,15,5.41015625
+firebase,Analytics,Network,16,5.21875
+firebase,Analytics,Network,17,5.9345703125
+firebase,Analytics,Network,18,5.16015625
+firebase,Analytics,Network,19,5.2470703125
+firebase,Analytics,Network,20,12
+firebase,Analytics,Network,21,5.263671875
+firebase,Analytics,Network,22,5.3701171875
+firebase,Analytics,Network,23,5.5927734375
+firebase,Analytics,Network,24,24
+firebase,Analytics,Network,25,5.4951171875
+firebase,Analytics,Network,26,5.51953125
+firebase,Analytics,Network,27,6.470703125
+firebase,Analytics,Network,28,5.2177734375
+firebase,Analytics,Network,29,5.4951171875
+firebase,Analytics,Network,30,5.1845703125
+flurry,Analytics,Network,1,18
+flurry,Analytics,Network,2,17
+flurry,Analytics,Network,3,18
+flurry,Analytics,Network,4,18
+flurry,Analytics,Network,5,18
+flurry,Analytics,Network,6,18
+flurry,Analytics,Network,7,18
+flurry,Analytics,Network,8,18
+flurry,Analytics,Network,9,17
+flurry,Analytics,Network,10,18
+flurry,Analytics,Network,11,18
+flurry,Analytics,Network,12,17
+flurry,Analytics,Network,13,18
+flurry,Analytics,Network,14,18
+flurry,Analytics,Network,15,18
+flurry,Analytics,Network,16,18
+flurry,Analytics,Network,17,18
+flurry,Analytics,Network,18,18
+flurry,Analytics,Network,19,18
+flurry,Analytics,Network,20,26
+flurry,Analytics,Network,21,18
+flurry,Analytics,Network,22,18
+flurry,Analytics,Network,23,18
+flurry,Analytics,Network,24,18
+flurry,Analytics,Network,25,18
+flurry,Analytics,Network,26,18
+flurry,Analytics,Network,27,18
+flurry,Analytics,Network,28,18
+flurry,Analytics,Network,29,18
+flurry,Analytics,Network,30,18
+google,Analytics,Network,1,6.615234375
+google,Analytics,Network,2,1.22265625
+google,Analytics,Network,3,1.2255859375
+google,Analytics,Network,4,2.2255859375
+google,Analytics,Network,5,1.220703125
+google,Analytics,Network,6,1.2216796875
+google,Analytics,Network,7,1.2236328125
+google,Analytics,Network,8,1.22265625
+google,Analytics,Network,9,1.22265625
+google,Analytics,Network,10,1.22265625
+google,Analytics,Network,11,1.2255859375
+google,Analytics,Network,12,1.22265625
+google,Analytics,Network,13,1.8974609375
+google,Analytics,Network,14,1.2197265625
+google,Analytics,Network,15,1.22265625
+google,Analytics,Network,16,1.2197265625
+google,Analytics,Network,17,1.22265625
+google,Analytics,Network,18,1.22265625
+google,Analytics,Network,19,1.2236328125
+google,Analytics,Network,20,1.734375
+google,Analytics,Network,21,2.9228515625
+google,Analytics,Network,22,1.5302734375
+google,Analytics,Network,23,1.220703125
+google,Analytics,Network,24,1.22265625
+google,Analytics,Network,25,1.22265625
+google,Analytics,Network,26,1.900390625
+google,Analytics,Network,27,1.2265625
+google,Analytics,Network,28,1.22265625
+google,Analytics,Network,29,1.22265625
+google,Analytics,Network,30,1.2236328125
+acra,Crash reporter,CPU,1,0.4
+acra,Crash reporter,CPU,2,0.333333333333333
+acra,Crash reporter,CPU,3,0.166666666666667
+acra,Crash reporter,CPU,4,0.375
+acra,Crash reporter,CPU,5,0.181818181818182
+acra,Crash reporter,CPU,6,0
+acra,Crash reporter,CPU,7,0
+acra,Crash reporter,CPU,8,0.2
+acra,Crash reporter,CPU,9,0.2
+acra,Crash reporter,CPU,10,0.375
+acra,Crash reporter,CPU,11,0.2
+acra,Crash reporter,CPU,12,0
+acra,Crash reporter,CPU,13,0.2
+acra,Crash reporter,CPU,14,0.375
+acra,Crash reporter,CPU,15,0.222222222222222
+acra,Crash reporter,CPU,16,0.181818181818182
+acra,Crash reporter,CPU,17,0.2
+acra,Crash reporter,CPU,18,0.25
+acra,Crash reporter,CPU,19,0.2
+acra,Crash reporter,CPU,20,0
+acra,Crash reporter,CPU,21,0.222222222222222
+acra,Crash reporter,CPU,22,0.25
+acra,Crash reporter,CPU,23,1
+acra,Crash reporter,CPU,24,0.25
+acra,Crash reporter,CPU,25,0.25
+acra,Crash reporter,CPU,26,0.125
+acra,Crash reporter,CPU,27,0.1
+acra,Crash reporter,CPU,28,0.125
+acra,Crash reporter,CPU,29,0
+acra,Crash reporter,CPU,30,0.25
+crashlytics,Crash reporter,CPU,1,0.142857142857143
+crashlytics,Crash reporter,CPU,2,0
+crashlytics,Crash reporter,CPU,3,0.142857142857143
+crashlytics,Crash reporter,CPU,4,0.142857142857143
+crashlytics,Crash reporter,CPU,5,0.142857142857143
+crashlytics,Crash reporter,CPU,6,0.142857142857143
+crashlytics,Crash reporter,CPU,7,0.142857142857143
+crashlytics,Crash reporter,CPU,8,0.142857142857143
+crashlytics,Crash reporter,CPU,9,0
+crashlytics,Crash reporter,CPU,10,0.333333333333333
+crashlytics,Crash reporter,CPU,11,0.142857142857143
+crashlytics,Crash reporter,CPU,12,0.285714285714286
+crashlytics,Crash reporter,CPU,13,0
+crashlytics,Crash reporter,CPU,14,0.571428571428571
+crashlytics,Crash reporter,CPU,15,0.166666666666667
+crashlytics,Crash reporter,CPU,16,0.166666666666667
+crashlytics,Crash reporter,CPU,17,0.142857142857143
+crashlytics,Crash reporter,CPU,18,1.42857142857143
+crashlytics,Crash reporter,CPU,19,0
+crashlytics,Crash reporter,CPU,20,0.142857142857143
+crashlytics,Crash reporter,CPU,21,0.142857142857143
+crashlytics,Crash reporter,CPU,22,0.142857142857143
+crashlytics,Crash reporter,CPU,23,0.166666666666667
+crashlytics,Crash reporter,CPU,24,0.166666666666667
+crashlytics,Crash reporter,CPU,25,0
+crashlytics,Crash reporter,CPU,26,0.142857142857143
+crashlytics,Crash reporter,CPU,27,0.333333333333333
+crashlytics,Crash reporter,CPU,28,0.142857142857143
+crashlytics,Crash reporter,CPU,29,0.714285714285714
+crashlytics,Crash reporter,CPU,30,0.166666666666667
+newrelic,Crash reporter,CPU,1,0
+newrelic,Crash reporter,CPU,2,0
+newrelic,Crash reporter,CPU,3,0
+newrelic,Crash reporter,CPU,4,0
+newrelic,Crash reporter,CPU,5,0
+newrelic,Crash reporter,CPU,6,0
+newrelic,Crash reporter,CPU,7,0
+newrelic,Crash reporter,CPU,8,0
+newrelic,Crash reporter,CPU,9,0
+newrelic,Crash reporter,CPU,10,0
+newrelic,Crash reporter,CPU,11,0
+newrelic,Crash reporter,CPU,12,0
+newrelic,Crash reporter,CPU,13,0
+newrelic,Crash reporter,CPU,14,0
+newrelic,Crash reporter,CPU,15,0
+newrelic,Crash reporter,CPU,16,0
+newrelic,Crash reporter,CPU,17,0
+newrelic,Crash reporter,CPU,18,0
+newrelic,Crash reporter,CPU,19,0
+newrelic,Crash reporter,CPU,20,0
+newrelic,Crash reporter,CPU,21,0.142857142857143
+newrelic,Crash reporter,CPU,22,0
+newrelic,Crash reporter,CPU,23,0
+newrelic,Crash reporter,CPU,24,0
+newrelic,Crash reporter,CPU,25,0
+newrelic,Crash reporter,CPU,26,0
+newrelic,Crash reporter,CPU,27,0
+newrelic,Crash reporter,CPU,28,0
+newrelic,Crash reporter,CPU,29,0
+newrelic,Crash reporter,CPU,30,0
+acra,Crash reporter,Energy,1,97.862612169204
+acra,Crash reporter,Energy,2,96.5211301306506
+acra,Crash reporter,Energy,3,97.4252602445565
+acra,Crash reporter,Energy,4,98.4118605080371
+acra,Crash reporter,Energy,5,97.9068830470983
+acra,Crash reporter,Energy,6,97.4589873146898
+acra,Crash reporter,Energy,7,98.7154426652427
+acra,Crash reporter,Energy,8,98.3083145596107
+acra,Crash reporter,Energy,9,97.9576973141692
+acra,Crash reporter,Energy,10,98.3657017276652
+acra,Crash reporter,Energy,11,97.6645943847227
+acra,Crash reporter,Energy,12,98.407418426379
+acra,Crash reporter,Energy,13,97.9272132602061
+acra,Crash reporter,Energy,14,97.7647073163134
+acra,Crash reporter,Energy,15,97.7268770239642
+acra,Crash reporter,Energy,16,97.6541048495482
+acra,Crash reporter,Energy,17,97.7771111939424
+acra,Crash reporter,Energy,18,99.21691128463
+acra,Crash reporter,Energy,19,99.0633831640454
+acra,Crash reporter,Energy,20,99.1104857839742
+acra,Crash reporter,Energy,21,98.9881247720264
+acra,Crash reporter,Energy,22,98.4407477995656
+acra,Crash reporter,Energy,23,98.6719706680605
+acra,Crash reporter,Energy,24,98.6195765995955
+acra,Crash reporter,Energy,25,97.5673798463494
+acra,Crash reporter,Energy,26,98.6305347395305
+acra,Crash reporter,Energy,27,98.1628790414101
+acra,Crash reporter,Energy,28,97.8505127306212
+acra,Crash reporter,Energy,29,98.6654351251631
+acra,Crash reporter,Energy,30,97.9629555086124
+crashlytics,Crash reporter,Energy,1,97.599444638823
+crashlytics,Crash reporter,Energy,2,97.2981887549213
+crashlytics,Crash reporter,Energy,3,100.052953774455
+crashlytics,Crash reporter,Energy,4,97.9073087675094
+crashlytics,Crash reporter,Energy,5,97.9097403031232
+crashlytics,Crash reporter,Energy,6,98.2984074845091
+crashlytics,Crash reporter,Energy,7,98.1550261823959
+crashlytics,Crash reporter,Energy,8,98.1659370364375
+crashlytics,Crash reporter,Energy,9,98.0992148567572
+crashlytics,Crash reporter,Energy,10,97.5928695247438
+crashlytics,Crash reporter,Energy,11,97.5071579796619
+crashlytics,Crash reporter,Energy,12,98.8695210649912
+crashlytics,Crash reporter,Energy,13,98.2302952576076
+crashlytics,Crash reporter,Energy,14,98.2051736866616
+crashlytics,Crash reporter,Energy,15,99.8005791506148
+crashlytics,Crash reporter,Energy,16,98.9086965848185
+crashlytics,Crash reporter,Energy,17,98.1297486886307
+crashlytics,Crash reporter,Energy,18,98.5886510740875
+crashlytics,Crash reporter,Energy,19,99.0424355871072
+crashlytics,Crash reporter,Energy,20,99.8668365849505
+crashlytics,Crash reporter,Energy,21,98.9044239467795
+crashlytics,Crash reporter,Energy,22,97.1049228683715
+crashlytics,Crash reporter,Energy,23,100.230301539091
+crashlytics,Crash reporter,Energy,24,98.6948546491466
+crashlytics,Crash reporter,Energy,25,98.5034777217459
+crashlytics,Crash reporter,Energy,26,98.3459495132827
+crashlytics,Crash reporter,Energy,27,97.6427621947146
+crashlytics,Crash reporter,Energy,28,99.058458564011
+crashlytics,Crash reporter,Energy,29,98.8096235142578
+crashlytics,Crash reporter,Energy,30,98.7855782337969
+newrelic,Crash reporter,Energy,1,98.2750267251407
+newrelic,Crash reporter,Energy,2,97.5660952191523
+newrelic,Crash reporter,Energy,3,98.9288210901211
+newrelic,Crash reporter,Energy,4,98.1914849712019
+newrelic,Crash reporter,Energy,5,99.2600972337279
+newrelic,Crash reporter,Energy,6,97.1373335070172
+newrelic,Crash reporter,Energy,7,97.7139365275182
+newrelic,Crash reporter,Energy,8,98.3103485434336
+newrelic,Crash reporter,Energy,9,97.8988199567346
+newrelic,Crash reporter,Energy,10,98.9966224411602
+newrelic,Crash reporter,Energy,11,97.195623888539
+newrelic,Crash reporter,Energy,12,97.815535181056
+newrelic,Crash reporter,Energy,13,97.8480781676513
+newrelic,Crash reporter,Energy,14,98.2076787934065
+newrelic,Crash reporter,Energy,15,99.2326015437948
+newrelic,Crash reporter,Energy,16,98.5029840644649
+newrelic,Crash reporter,Energy,17,98.2259811312118
+newrelic,Crash reporter,Energy,18,98.0085367355771
+newrelic,Crash reporter,Energy,19,99.1864114092646
+newrelic,Crash reporter,Energy,20,98.0865192851737
+newrelic,Crash reporter,Energy,21,98.6883486601835
+newrelic,Crash reporter,Energy,22,97.3904421179238
+newrelic,Crash reporter,Energy,23,98.5074385349059
+newrelic,Crash reporter,Energy,24,98.4335387420914
+newrelic,Crash reporter,Energy,25,98.4617450784083
+newrelic,Crash reporter,Energy,26,97.9202109004225
+newrelic,Crash reporter,Energy,27,97.852712278505
+newrelic,Crash reporter,Energy,28,98.4247072801049
+newrelic,Crash reporter,Energy,29,98.3429698703316
+newrelic,Crash reporter,Energy,30,98.0424007153664
+acra,Crash reporter,Memory,1,25.2738715277777
+acra,Crash reporter,Memory,2,24.4078125
+acra,Crash reporter,Memory,3,22.63466796875
+acra,Crash reporter,Memory,4,21.4981553819444
+acra,Crash reporter,Memory,5,21.01279296875
+acra,Crash reporter,Memory,6,20.82822265625
+acra,Crash reporter,Memory,7,20.97021484375
+acra,Crash reporter,Memory,8,21.85869140625
+acra,Crash reporter,Memory,9,21.21083984375
+acra,Crash reporter,Memory,10,21.3409288194444
+acra,Crash reporter,Memory,11,22.06025390625
+acra,Crash reporter,Memory,12,21.3615234375
+acra,Crash reporter,Memory,13,20.9875
+acra,Crash reporter,Memory,14,21.4051649305556
+acra,Crash reporter,Memory,15,21.4424913194444
+acra,Crash reporter,Memory,16,21.07890625
+acra,Crash reporter,Memory,17,22.6140625
+acra,Crash reporter,Memory,18,21.3683810763889
+acra,Crash reporter,Memory,19,21.4119140625
+acra,Crash reporter,Memory,20,20.98271484375
+acra,Crash reporter,Memory,21,22.373046875
+acra,Crash reporter,Memory,22,21.4563802083333
+acra,Crash reporter,Memory,23,21.5578342013889
+acra,Crash reporter,Memory,24,21.1952039930556
+acra,Crash reporter,Memory,25,20.9474609375
+acra,Crash reporter,Memory,26,22.23359375
+acra,Crash reporter,Memory,27,22.03837890625
+acra,Crash reporter,Memory,28,19.31240234375
+acra,Crash reporter,Memory,29,21.4459635416667
+acra,Crash reporter,Memory,30,22.11220703125
+crashlytics,Crash reporter,Memory,1,32.1116071428571
+crashlytics,Crash reporter,Memory,2,34.5184151785714
+crashlytics,Crash reporter,Memory,3,34.6111886160714
+crashlytics,Crash reporter,Memory,4,32.5813337053571
+crashlytics,Crash reporter,Memory,5,34.2135881696429
+crashlytics,Crash reporter,Memory,6,34.7036830357143
+crashlytics,Crash reporter,Memory,7,34.3159877232143
+crashlytics,Crash reporter,Memory,8,34.0341796875
+crashlytics,Crash reporter,Memory,9,35.0935872395833
+crashlytics,Crash reporter,Memory,10,30.9188058035714
+crashlytics,Crash reporter,Memory,11,32.4006696428571
+crashlytics,Crash reporter,Memory,12,34.9388950892857
+crashlytics,Crash reporter,Memory,13,34.1782924107143
+crashlytics,Crash reporter,Memory,14,34.0697544642857
+crashlytics,Crash reporter,Memory,15,34.2320033482143
+crashlytics,Crash reporter,Memory,16,34.0904017857143
+crashlytics,Crash reporter,Memory,17,32.1012834821429
+crashlytics,Crash reporter,Memory,18,31.8058035714286
+crashlytics,Crash reporter,Memory,19,31.6294642857143
+crashlytics,Crash reporter,Memory,20,34.1090959821429
+crashlytics,Crash reporter,Memory,21,34.5711495535714
+crashlytics,Crash reporter,Memory,22,35.3049665178571
+crashlytics,Crash reporter,Memory,23,34.3260323660714
+crashlytics,Crash reporter,Memory,24,33.5775669642857
+crashlytics,Crash reporter,Memory,25,32.4680524553571
+crashlytics,Crash reporter,Memory,26,34.5989118303571
+crashlytics,Crash reporter,Memory,27,33.4568917410714
+crashlytics,Crash reporter,Memory,28,32.7626953125
+crashlytics,Crash reporter,Memory,29,32.3850446428571
+crashlytics,Crash reporter,Memory,30,35.0849609375
+newrelic,Crash reporter,Memory,1,29.8610491071429
+newrelic,Crash reporter,Memory,2,32.1513671875
+newrelic,Crash reporter,Memory,3,31.8763020833333
+newrelic,Crash reporter,Memory,4,34.6653180803571
+newrelic,Crash reporter,Memory,5,32.6428571428571
+newrelic,Crash reporter,Memory,6,34.4727957589286
+newrelic,Crash reporter,Memory,7,34.5078125
+newrelic,Crash reporter,Memory,8,31.9027622767857
+newrelic,Crash reporter,Memory,9,32.5432477678571
+newrelic,Crash reporter,Memory,10,34.6252790178571
+newrelic,Crash reporter,Memory,11,32.4856305803571
+newrelic,Crash reporter,Memory,12,34.7557198660714
+newrelic,Crash reporter,Memory,13,32.3477957589286
+newrelic,Crash reporter,Memory,14,32.1003069196429
+newrelic,Crash reporter,Memory,15,32.2188895089286
+newrelic,Crash reporter,Memory,16,34.7992466517857
+newrelic,Crash reporter,Memory,17,34.4192243303571
+newrelic,Crash reporter,Memory,18,34.6070033482143
+newrelic,Crash reporter,Memory,19,32.0132533482143
+newrelic,Crash reporter,Memory,20,32.2434430803571
+newrelic,Crash reporter,Memory,21,32.3551897321429
+newrelic,Crash reporter,Memory,22,32.4856305803571
+newrelic,Crash reporter,Memory,23,32.3646763392857
+newrelic,Crash reporter,Memory,24,32.1314174107143
+newrelic,Crash reporter,Memory,25,32.1446707589286
+newrelic,Crash reporter,Memory,26,32.1381138392857
+newrelic,Crash reporter,Memory,27,32.4224330357143
+newrelic,Crash reporter,Memory,28,34.4144810267857
+newrelic,Crash reporter,Memory,29,34.0340401785714
+newrelic,Crash reporter,Memory,30,32.177734375
+acra,Crash reporter,Network,1,23
+acra,Crash reporter,Network,2,23
+acra,Crash reporter,Network,3,24
+acra,Crash reporter,Network,4,23
+acra,Crash reporter,Network,5,23
+acra,Crash reporter,Network,6,23
+acra,Crash reporter,Network,7,23
+acra,Crash reporter,Network,8,23
+acra,Crash reporter,Network,9,23
+acra,Crash reporter,Network,10,23
+acra,Crash reporter,Network,11,23
+acra,Crash reporter,Network,12,23
+acra,Crash reporter,Network,13,23
+acra,Crash reporter,Network,14,23
+acra,Crash reporter,Network,15,23
+acra,Crash reporter,Network,16,23
+acra,Crash reporter,Network,17,23
+acra,Crash reporter,Network,18,23
+acra,Crash reporter,Network,19,23
+acra,Crash reporter,Network,20,23
+acra,Crash reporter,Network,21,23
+acra,Crash reporter,Network,22,23
+acra,Crash reporter,Network,23,23
+acra,Crash reporter,Network,24,23
+acra,Crash reporter,Network,25,23
+acra,Crash reporter,Network,26,23
+acra,Crash reporter,Network,27,23
+acra,Crash reporter,Network,28,23
+acra,Crash reporter,Network,29,23
+acra,Crash reporter,Network,30,23
+crashlytics,Crash reporter,Network,1,51
+crashlytics,Crash reporter,Network,2,49
+crashlytics,Crash reporter,Network,3,50
+crashlytics,Crash reporter,Network,4,49
+crashlytics,Crash reporter,Network,5,50
+crashlytics,Crash reporter,Network,6,50
+crashlytics,Crash reporter,Network,7,50
+crashlytics,Crash reporter,Network,8,50
+crashlytics,Crash reporter,Network,9,49
+crashlytics,Crash reporter,Network,10,50
+crashlytics,Crash reporter,Network,11,50
+crashlytics,Crash reporter,Network,12,50
+crashlytics,Crash reporter,Network,13,49
+crashlytics,Crash reporter,Network,14,49
+crashlytics,Crash reporter,Network,15,49
+crashlytics,Crash reporter,Network,16,49
+crashlytics,Crash reporter,Network,17,49
+crashlytics,Crash reporter,Network,18,50
+crashlytics,Crash reporter,Network,19,51
+crashlytics,Crash reporter,Network,20,50
+crashlytics,Crash reporter,Network,21,49
+crashlytics,Crash reporter,Network,22,50
+crashlytics,Crash reporter,Network,23,49
+crashlytics,Crash reporter,Network,24,51
+crashlytics,Crash reporter,Network,25,50
+crashlytics,Crash reporter,Network,26,51
+crashlytics,Crash reporter,Network,27,50
+crashlytics,Crash reporter,Network,28,49
+crashlytics,Crash reporter,Network,29,50
+crashlytics,Crash reporter,Network,30,50
+newrelic,Crash reporter,Network,1,32
+newrelic,Crash reporter,Network,2,29
+newrelic,Crash reporter,Network,3,31
+newrelic,Crash reporter,Network,4,29
+newrelic,Crash reporter,Network,5,29
+newrelic,Crash reporter,Network,6,29
+newrelic,Crash reporter,Network,7,30
+newrelic,Crash reporter,Network,8,29
+newrelic,Crash reporter,Network,9,29
+newrelic,Crash reporter,Network,10,29
+newrelic,Crash reporter,Network,11,29
+newrelic,Crash reporter,Network,12,30
+newrelic,Crash reporter,Network,13,30
+newrelic,Crash reporter,Network,14,29
+newrelic,Crash reporter,Network,15,29
+newrelic,Crash reporter,Network,16,29
+newrelic,Crash reporter,Network,17,29
+newrelic,Crash reporter,Network,18,29
+newrelic,Crash reporter,Network,19,30
+newrelic,Crash reporter,Network,20,29
+newrelic,Crash reporter,Network,21,29
+newrelic,Crash reporter,Network,22,30
+newrelic,Crash reporter,Network,23,56
+newrelic,Crash reporter,Network,24,29
+newrelic,Crash reporter,Network,25,29
+newrelic,Crash reporter,Network,26,30
+newrelic,Crash reporter,Network,27,29
+newrelic,Crash reporter,Network,28,30
+newrelic,Crash reporter,Network,29,30
+newrelic,Crash reporter,Network,30,29

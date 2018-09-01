@@ -1,0 +1,55 @@
+"firstIndividual","secondIndividual","group","variable","pvalue","significant","effect"
+"admob","applovin","Advertising","CPU","0.00333510422283211","1","medium"
+"admob","applovin","Advertising","Energy","0.00410505373719414","1","medium"
+"admob","applovin","Advertising","Memory","1.69112338921448e-17","1","large"
+"admob","applovin","Advertising","Network","0.519784793092395","0","-"
+"admob","applovin","Advertising","APK size","0","1",NA
+"admob","applovin","Advertising","Permissions","0","1",NA
+"admob","mopub","Advertising","CPU","0.340187814430733","0","-"
+"admob","mopub","Advertising","Energy","5.7551252390363e-06","1","large"
+"admob","mopub","Advertising","Memory","0.0155110431673641","1","medium"
+"admob","mopub","Advertising","Network","0.112655499610275","0","-"
+"admob","mopub","Advertising","APK size","0","1",NA
+"admob","mopub","Advertising","Permissions","0","1",NA
+"applovin","mopub","Advertising","CPU","2.27321273485437e-07","1","large"
+"applovin","mopub","Advertising","Energy","0.0496199999646562","1","small"
+"applovin","mopub","Advertising","Memory","4.84151715098213e-13","1","large"
+"applovin","mopub","Advertising","Network","0.347606654289449","0","-"
+"applovin","mopub","Advertising","APK size","0","1",NA
+"applovin","mopub","Advertising","Permissions","0","1",NA
+"firebase","flurry","Analytics","CPU","0.100569667280811","0","-"
+"firebase","flurry","Analytics","Energy","0.187178639832089","0","-"
+"firebase","flurry","Analytics","Memory","4.86725394437982e-06","1","large"
+"firebase","flurry","Analytics","Network","1.95840665293692e-09","1","large"
+"firebase","flurry","Analytics","APK size","0","1",NA
+"firebase","flurry","Analytics","Permissions","0","1",NA
+"firebase","google","Analytics","CPU","0.00410610092171406","1","medium"
+"firebase","google","Analytics","Energy","0.122944608779972","0","-"
+"firebase","google","Analytics","Memory","0.0015246839056553","1","medium"
+"firebase","google","Analytics","Network","2.9407755338139e-10","1","large"
+"firebase","google","Analytics","APK size","0","1",NA
+"firebase","google","Analytics","Permissions","0","1",NA
+"flurry","google","Analytics","CPU","0.00153278294462292","1","large"
+"flurry","google","Analytics","Energy","0.831500482872491","0","-"
+"flurry","google","Analytics","Memory","1.67493933837969e-12","1","large"
+"flurry","google","Analytics","Network","3.29190959611066e-12","1","large"
+"flurry","google","Analytics","APK size","0","1",NA
+"flurry","google","Analytics","Permissions","0","1",NA
+"acra","crashlytics","Crash reporter","CPU","0.0695891471484934","0","-"
+"acra","crashlytics","Crash reporter","Energy","0.197313248162444","0","-"
+"acra","crashlytics","Crash reporter","Memory","1.69112338921448e-17","1","large"
+"acra","crashlytics","Crash reporter","Network","9.03897861581345e-13","1","large"
+"acra","crashlytics","Crash reporter","APK size","0","1",NA
+"acra","crashlytics","Crash reporter","Permissions","0","1",NA
+"acra","newrelic","Crash reporter","CPU","1.56297502066154e-09","1","large"
+"acra","newrelic","Crash reporter","Energy","0.708193052904424","0","-"
+"acra","newrelic","Crash reporter","Memory","3.01796679849045e-11","1","large"
+"acra","newrelic","Crash reporter","Network","6.25924890811351e-13","1","large"
+"acra","newrelic","Crash reporter","APK size","0","1",NA
+"acra","newrelic","Crash reporter","Permissions","0","1",NA
+"crashlytics","newrelic","Crash reporter","CPU","1.68343506539139e-09","1","large"
+"crashlytics","newrelic","Crash reporter","Energy","0.279422296877117","0","-"
+"crashlytics","newrelic","Crash reporter","Memory","0.0635289727738155","0","-"
+"crashlytics","newrelic","Crash reporter","Network","1.73379156457744e-10","1","large"
+"crashlytics","newrelic","Crash reporter","APK size","0","1",NA
+"crashlytics","newrelic","Crash reporter","Permissions","0","1",NA
