@@ -1,0 +1,11 @@
+SdkName,SdkType,Permission
+admob,Ads,android.permission.INTERNET
+admob,Ads,android.permission.ACCESS_NETWORK_STATE
+admob,Ads,android.permission.WAKE_LOCK
+admob,Ads,com.google.android.c2dm.permission.RECEIVE
+admob,Ads,ruben.soccerlab.admob.permission.C2D_MESSAGE
+applovin,Ads,android.permission.INTERNET
+applovin,Ads,android.permission.WRITE_EXTERNAL_STORAGE maxSdkVersion=18
+applovin,Ads,android.permission.ACCESS_NETWORK_STATE
+mopub,Ads,android.permission.INTERNET
+mopub,Ads,android.permission.ACCESS_NETWORK_STATE
