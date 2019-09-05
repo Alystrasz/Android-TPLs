@@ -21,6 +21,8 @@ def initLVPM(serialno=None, Protcol=pmapi.USB_protocol()):
     Mon.setVout(4)
 
     timetoBoot = 150
+    iterationsPerScenario = 30
+
     print("Voltage enabled")
     print("You have %d seconds to boot your phone, disable USB charging and check it is correctly detected (under adb "
           "devices) before measurements start." % timetoBoot)
@@ -32,10 +34,10 @@ def initLVPM(serialno=None, Protcol=pmapi.USB_protocol()):
         timer -= 1
         time.sleep(1)
 
-    launchMeasurements(Mon)
+    launchMeasurements(Mon, iterationsPerScenario)
 
 
-def launchMeasurements(Mon):
+def launchMeasurements(Mon, iterationsPerScenario):
     engine = sampleEngine.SampleEngine(Mon)
     engine.ConsoleOutput(False)
     engine.setTriggerChannel(sampleEngine.channels.timeStamp) #Start and stop judged by the timestamp channel.
@@ -47,7 +49,7 @@ def launchMeasurements(Mon):
     ]
 
     for scenario in scenarios:
-        for i in range(5):
+        for i in range(iterationsPerScenario):
             launchScenario(engine, scenario[0], Mon, i)
             clearPhoneState(scenario[1])
 
