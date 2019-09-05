@@ -2,19 +2,19 @@ PACKAGE="ruben.soccerlab.crashlytics"
 ACTIVITY="ruben.soccerlab.crashlytics.MainActivity"
 
 # Launch app ("Launch app" entry in partition_info.csv file)
-am start -n $PACKAGE/$ACTIVITY
+adb shell am start -n $PACKAGE/$ACTIVITY
 
 # Wait few seconds to simulate user waiting
 sleep 3
 
 # Press button to crash the app
-input tap 300 600
+adb shell input tap 300 600
 
 # Sleep some time (expecting that information is sent to the server)
 sleep 3
 
 # Close Android message about the crash
-input tap 626 667
+adb shell input tap 1175 1400
 
 # Sleep some time (expecting that information is sent to the server)
 sleep 3
