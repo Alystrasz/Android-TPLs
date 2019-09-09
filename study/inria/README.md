@@ -17,10 +17,11 @@ to disable USB charge for the same previously mentioned reasons.
 
 ## Scripts 
 
-We use two scripts to establish measures:
-* **measurements.py** is used to give power to the smartphone, launch scenarios with minimal apps and gathering results, 
+We use several scripts to establish measures:
+* **measurements.py** is used to give power to the smartphone, launch scenarios with minimal apps and gather results, 
 exporting them as CSV files;
-* **plot.py** exploits previously-created CSV files to create a graph.
+* **plot.py** exploits previously-created CSV files to create graphs;
+* **analyse.py** uses these files to compute metrics such as mean consumption, min/max values etc.
 
 ## Method
 
