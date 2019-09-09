@@ -1,6 +1,7 @@
 from Experiment import Experiment
 import math
 
+""" This class gathers several experiments of a single library and enables statistics gathering of the overall lib """
 class ExperimentsAnalyser:
     def __init__(self, name, count):
         self.name = name
@@ -73,6 +74,7 @@ class ExperimentsAnalyser:
         markers = self.get_markers()
         print("Min value: %fW, max value: %fW" % (markers['min'], markers['max']))
         quartiles = self.get_quartiles()
-        print("1st quartile: %fW, 3rd quartile: %fW, median: %fW" % (quartiles["firstQ"], quartiles["thirdQ"], quartiles["median"]))
+        print("1st quartile: %fW, 3rd quartile: %fW, median: %fW" % (quartiles["firstQ"], quartiles["thirdQ"],
+                                                                     quartiles["median"]))
         print("Average standard deviation: %fW" % self.get_standard_deviation())
         print("------------------------------------------------")
