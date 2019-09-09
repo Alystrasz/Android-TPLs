@@ -23,6 +23,10 @@ exporting them as CSV files;
 * **plot.py** exploits previously-created CSV files to create graphs;
 * **analyse.py** uses these files to compute metrics such as mean consumption, min/max values etc.
 
+## Tests
+
+To launch tests, cd into `tests` directory and run `python TestExperimentsAnalyser.py`. 
+
 ## Method
 
 We run each scenario a given number of times, and run a script between each run to kill previously-used application to
