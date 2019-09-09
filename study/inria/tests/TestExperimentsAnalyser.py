@@ -23,6 +23,16 @@ class TestExperimentsAnalyser(unittest.TestCase):
     def test_standard_deviation(self):
         self.assertEqual(round(self.analyser.get_standard_deviation(), 3), round(1.335086169, 3)) # (1.577857915 + 1.092314424) / 2
 
+    """ 
+        ['1.56', '1.58', '1.6', '1.6', '1.6', '1.62', '1.64', '1.680', '2.112', '2.196', 
+        '2.904', '3.052', '3.104', '3.12', '3.212', '3.368', '3.372', '3.572', '5.064', '7.064']
+    """
+    def test_quartiles(self):
+        quartiles = self.analyser.get_quartiles()
+        self.assertEqual(quartiles["firstQ"], 1.6)
+        self.assertEqual(quartiles["thirdQ"], 3.212)
+        self.assertEqual(quartiles["median"], 2.196)
+
 
 if __name__ == '__main__':
     unittest.main()

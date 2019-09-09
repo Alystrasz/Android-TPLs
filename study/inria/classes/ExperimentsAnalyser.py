@@ -51,11 +51,28 @@ class ExperimentsAnalyser:
                 if point > max: max = point
         return {"min": min, "max": max}
 
+    def get_quartiles(self):
+        allvalues = []
+        for exp in self.experiments:
+            for point in exp.power:
+                allvalues.append(point)
+        allvalues.sort()
+
+        size = len(allvalues)
+        median = allvalues[int(round(size/2))-1]
+        i = int(round(size/4))
+        firstQ = allvalues[i-1]
+        thirdQ = allvalues[i*3-1]
+
+        return {"firstQ": firstQ, "thirdQ": thirdQ, "median": median}
+
     def print_results(self):
         print("Library tested: %s" % self.name)
         print("Number of runs: %d" % self.count)
         print("Average power withdrawn: %fW" % self.get_mean())
         markers = self.get_markers()
         print("Min value: %fW, max value: %fW" % (markers['min'], markers['max']))
+        quartiles = self.get_quartiles()
+        print("1st quartile: %fW, 3rd quartile: %fW, median: %fW" % (quartiles["firstQ"], quartiles["thirdQ"], quartiles["median"]))
         print("Average standard deviation: %fW" % self.get_standard_deviation())
         print("------------------------------------------------")
