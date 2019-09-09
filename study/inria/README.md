@@ -3,7 +3,7 @@
 This repository regroups all work put into completing the TPL energy consumption study of ***Saborido et al.*** by the 
 SPIRALS team at Inria Lille, France.
 
-<img align="right" src="phone.jpg" width="300"/>
+<img align="right" src="docs/phone.jpg" width="300"/>
 
 ### Tools
 
