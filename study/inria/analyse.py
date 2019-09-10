@@ -11,5 +11,14 @@ def main():
     google_analyser = ExperimentsAnalyser("google-release", runs_per_scenario)
     google_analyser.print_results()
 
+    print("==========================================================================================")
+
+    acra_analyser = ExperimentsAnalyser("acra-release", runs_per_scenario)
+    acra_analyser.print_results()
+    crashlytics_analyser = ExperimentsAnalyser("crashlytics-release", runs_per_scenario)
+    crashlytics_analyser.print_results()
+    newrelic_analyser = ExperimentsAnalyser("newrelic-release", runs_per_scenario)
+    newrelic_analyser.print_results()
+
 if __name__ == "__main__":
     main()
