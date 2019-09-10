@@ -43,10 +43,17 @@ def launchMeasurements(Mon, iterationsPerScenario):
     engine.setTriggerChannel(sampleEngine.channels.timeStamp) #Start and stop judged by the timestamp channel.
 
     scenarios = [
+        ["../CrashReporting/scenarios/crashlytics-release.sh", "ruben.soccerlab.crashlytics"]
+    ]
+    """
         ["../Analytics/scenarios/firebase-release.sh", "ruben.soccerlab.google"],
         ["../Analytics/scenarios/flurry-release.sh", "ruben.soccerlab.flurry"],
-        ["../Analytics/scenarios/google-release.sh", "ruben.soccerlab.google"]
-    ]
+        ["../Analytics/scenarios/google-release.sh", "ruben.soccerlab.google"],
+        
+        ["../CrashReporting/scenarios/crashlytics-release.sh", "ruben.soccerlab.crashlytics"],
+        ["../CrashReporting/scenarios/newrelic-release.sh", "ruben.soccerlab.newrelic"],
+        ["../CrashReporting/scenarios/acra-release.sh", "ruben.soccerlab.acra"],
+    """
 
     for scenario in scenarios:
         for i in range(iterationsPerScenario):
